@@ -1,0 +1,20 @@
+
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+.header {
+    margin: 10px;
+}
+
+.sub {
+    text-wrap: balance;
+}
+
+li {
+    margin-bottom: 5px;
+}
